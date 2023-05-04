@@ -10,7 +10,7 @@ def generate_password(pass_number, pass_length):
 def banner():
     print("****************************************")
     print("$                                      $")
-    print("$    Bem-vindo ao Gerador de Senhas    $")
+    print("$              Bem-vindo               $")
     print("$                                      $")
     print("****************************************")
 
