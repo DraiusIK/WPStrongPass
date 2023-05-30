@@ -19,7 +19,7 @@ if __name__ == '__main__':
     pass_number = int(input("NÚMERO DE SENHAS GERADAS: "))
     pass_length = int(input("QUANTIDADE DE CARACTERES: "))
     if pass_length < 1 or pass_number < 1:
-        print("O NÚMERO E O COMPRIMENTO DEVEM SER POSITIVOS")
+        print("SOMENTE NÚMEROS")
     else:
         generate_password(pass_number, pass_length)
 
