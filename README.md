@@ -1,3 +1,3 @@
 # WPStrongPass - PASSWORDS
 
-Esses códigos em foram desenvolvidos com o propósito de gerar senhas aleatórias que combinam letras, números e caracteres.
+Esses códigos foram desenvolvidos com o propósito de gerar senhas aleatórias que combinam letras, números e caracteres.
