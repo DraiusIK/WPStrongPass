@@ -37,7 +37,7 @@ int main() {
     printf("QUANTIDADE DE CARACTERES: ");
     scanf("%d", &pass_length);
     if (pass_length < 1 || pass_number < 1) {
-        printf("O NÚMERO E O COMPRIMENTO DEVEM SER POSITIVOS");
+        printf("SOMENTE NÚMEROS");
         return 1;
     }
     printf("\n");
