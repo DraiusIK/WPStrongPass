@@ -1,3 +1,3 @@
 # WPStrongPass - PASSWORDS
 
-Random password generators
+Random Password Generators
